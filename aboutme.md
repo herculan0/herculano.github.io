@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
+title: Sobre Mim
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Lucas Herculano é um formando em Análise e Desenvolvimento de Sistemas, Analista de Suporte no papel, DevOps no coração. Ele ama cozinhar e ama os animais, casou esses amores e virou vegano pelos animais em 2014. Nem peixe.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Estudante todo dia
+- Gosto de batata palha e torta
 
-What else do you need?
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Minha história
+
+Quando criança, chamava a Lua de queijo. Quando adolescente, viciado em jogos como Ragnarok e Combat Arms. Quando um pouco mais Adolescente, tomei gosto pela leitura e pelos estudos, me tornei um anarquista, quando adulto resolvi fazer faculdade e me aprofundar na área de Tecnologia, hoje apaixonado por DevOps e CloudComputing. 
