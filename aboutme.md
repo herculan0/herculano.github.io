@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre Mim
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
 Lucas Herculano é um formando em Análise e Desenvolvimento de Sistemas, Analista de Suporte no papel, DevOps no coração. Ele ama cozinhar e ama os animais, casou esses amores e virou vegano pelos animais em 2014. Nem peixe.
