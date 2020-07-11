@@ -97,3 +97,11 @@ var BeautifulJekyllJS = {
 // 2fc73a3a967e97599c9763d05e564189
 
 document.addEventListener('DOMContentLoaded', BeautifulJekyllJS.init);
+
+const nightMode = document.querySelector('#night-mode')
+
+// ao clicar mudaremos as cores
+nightMode.addEventListener('click', () => {
+  // adiciona a classe `night-mode` ao html
+  document.documentElement.classList.toggle('night-mode')
+})
